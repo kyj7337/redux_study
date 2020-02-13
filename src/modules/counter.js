@@ -1,3 +1,5 @@
+import { createAction } from "redux-actions";
+
 const INCREASE = "counter/INCREASE"; //액션 타입 정의
 const DECREASE = "counter/DECREASE"; //액션 타입 정의
 
