@@ -7,7 +7,8 @@ const App = () => {
     <div>
       {/* <CounterContainer /> */}
       {/* <hr /> */}
-      {/* <TodosContainer /> */}
+      <TodosContainer />
+      <hr/>
     </div>
   );
 };
