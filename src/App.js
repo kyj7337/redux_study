@@ -5,9 +5,9 @@ import TodosContainer from "./container/TodosContainer";
 const App = () => {
   return (
     <div>
-      <CounterContainer />
+      {/* <CounterContainer /> */}
       {/* <hr /> */}
-      <TodosContainer />
+      {/* <TodosContainer /> */}
     </div>
   );
 };
