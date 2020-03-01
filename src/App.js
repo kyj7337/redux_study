@@ -10,6 +10,7 @@ const App = () => {
       <TodosContainer />
       <hr/>
       <div>1</div>
+      <div>2</div>
     </div>
   );
 };
