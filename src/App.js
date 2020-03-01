@@ -8,6 +8,7 @@ const App = () => {
       <CounterContainer />
       {/* <hr /> */}
       <TodosContainer />
+      <hr/>
     </div>
   );
 };
