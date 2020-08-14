@@ -1,16 +1,16 @@
-import React from "react";
+import React from 'react';
 // import Todos from "./components/Todos";
-import CounterContainer from "./container/CounterContainer";
-import TodosContainer from "./container/TodosContainer";
+import CounterContainer from './container/CounterContainer';
+import TodosContainer from './container/TodosContainer';
+import ExampleContainer from './container/ExampleContainer';
 const App = () => {
   return (
     <div>
       <CounterContainer />
       <hr />
       <TodosContainer />
-      <hr/>
-      <div>test1</div>
-      <div>2</div>
+      <hr />
+      <ExampleContainer />
     </div>
   );
 };
